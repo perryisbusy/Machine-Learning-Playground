@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 1
 2
+=======
+>>>>>>> parent of ced0b15 (Update rm.txt)
