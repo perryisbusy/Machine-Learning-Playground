@@ -1,9 +1,0 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-1
-2
-=======
->>>>>>> parent of ced0b15 (Update rm.txt)
-=======
-1
->>>>>>> parent of ae7650e (Add 2)
